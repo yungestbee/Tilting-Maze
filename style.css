@@ -17,6 +17,9 @@ body {
     height: 100%;
     margin: 0;
 }
+.header{
+    position: absolute;
+}
 
 #center {
     display: flex;
